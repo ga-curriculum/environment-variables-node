@@ -1,13 +1,6 @@
-# ![[tktk Module Name] - References](./assets/hero.png)
+# ![Environment Variables - Node - References](./assets/hero.png)
 
 ## Lesson references
 
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
-
-## Level Up references
-
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
-- [tktk descriptive name of link]()
+- [Dotenv](https://www.npmjs.com/package/dotenv)
+- [Git - `.gitignore` file documentation](https://git-scm.com/docs/gitignore)
