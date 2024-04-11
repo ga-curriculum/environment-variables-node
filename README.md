@@ -12,8 +12,9 @@ This module is designed for beginner and intermediate learners who aim to implem
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Using Environment Variables in Node](./using-environment-variables-in-node/README.md) | 11 min | [link](https://generalassembly.wistia.com/medias/mwmqubkza7) | Use `.env` files and protect secrets using a `.gitignore` file in a Node app. |
-| **Total content**                                                                      | 11 min | --                                                           |                                                                               |
+| [Setup](./setup/README.md)                                             |  min | [link]() | Set up a development environment.                                             |
+| [Using Environment Variables](./using-environment-variables/README.md) |  min | [link]() | Use `.env` files and protect secrets using a `.gitignore` file in a Node app. |
+| **Total content**                                                      |  min | --       |                                                                               |
 
 ## References
 
