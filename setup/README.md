@@ -1,7 +1,5 @@
 # ![Environment Variables - Node - Setup](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to use and protect `.env` files in a Node application.
-
 ## Setup
 
 > 🧠 If you just want to implement environment variables in an existing Node app, you don't need to do any of these setup steps.

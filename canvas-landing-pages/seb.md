@@ -4,6 +4,8 @@
 
 This module is designed for beginner and intermediate learners who aim to implement environment variables in their node projects.
 
+> 🧠 If you just want to implement environment variables in an existing Node app, you can skip the **Setup** lesson!
+
 ## Content
 
 | Lesson | Video Time | Video | Skills |
