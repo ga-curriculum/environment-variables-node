@@ -44,7 +44,7 @@ Enter the following in your `.env` file:
 SECRET_PASSWORD=1234
 ```
 
-> 🚨 `.env` files are ***not JavaScript files**. They are a set of KEY=value pairs where every value is treated as a string. Do not use quotes around the values. Do not use `let` or `const` when defining the keys. You will never add any spaces in these files.
+> 🚨 `.env` files are ***not JavaScript files***. They are a set of KEY=value pairs where every value is treated as a string. Do not use quotes around the values. Do not use `let` or `const` when defining the keys. You will never add any spaces in these files.
 
 ### Accessing environment variables
 
