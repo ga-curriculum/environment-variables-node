@@ -48,7 +48,7 @@ SECRET_PASSWORD=1234
 
 ### Accessing environment variables
 
-The `dotenv` package creates a `process.env` object, which contains properties that match the keys in our `.env` file. For example, the `SECRET_PASSWORD` environment variable we defined above will be accessible at `process.env.SECRET_PASSWORD`.
+The `dotenv` package attaches all the properties that match the keys in our `.env` file to the `process.env` object. For example, the `SECRET_PASSWORD` environment variable we defined above will be accessible at `process.env.SECRET_PASSWORD`.
 
 Let's access it within our code:
 
