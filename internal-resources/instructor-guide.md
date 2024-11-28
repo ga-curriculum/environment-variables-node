@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Environment Variables- Node</span>
+  <span class="headline">Environment Variables - Node</span>
   <span class="subhead">Instructor Guide</span>
 </h1>
 

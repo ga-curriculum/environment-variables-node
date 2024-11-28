@@ -1,7 +1,7 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Environment Variables- Node</span>
+  <span class="headline">Environment Variables - Node</span>
 </h1>
 
 ## About
