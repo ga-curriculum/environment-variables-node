@@ -1,4 +1,7 @@
-# ![Environment Variables - Node - Using Environment Variables](./assets/hero.png)
+<h1>
+  <span class="headline">Environment Variables- Node</span>
+  <span class="subhead">Using Environment Variables</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to use and protect `.env` files in a Node application.
 

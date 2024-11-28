@@ -1,4 +1,7 @@
-# ![Environment Variables - Node - Setup](./assets/hero.png)
+<h1>
+  <span class="headline">Environment Variables- Node</span>
+  <span class="subhead">Setup</span>
+</h1>
 
 ## Setup
 

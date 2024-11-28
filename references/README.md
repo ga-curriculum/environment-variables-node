@@ -1,4 +1,7 @@
-# ![Environment Variables - Node - References](./assets/hero.png)
+<h1>
+  <span class="headline">Environment Variables- Node</span>
+  <span class="subhead">References</span>
+</h1>
 
 ## Lesson references
 
